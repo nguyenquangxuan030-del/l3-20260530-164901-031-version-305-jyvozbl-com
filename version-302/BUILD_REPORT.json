@@ -1,0 +1,20 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_distribution": {
+    "热播剧集": 200,
+    "都市情感": 200,
+    "悬疑犯罪": 200,
+    "喜剧治愈": 200,
+    "科幻奇幻": 200,
+    "家庭剧情": 200,
+    "动作冒险": 200,
+    "年代历史": 200,
+    "亚洲精选": 200,
+    "全球片库": 200
+  },
+  "video_sources_extracted": 20,
+  "poster_images_generated": 150,
+  "html_pages": 2013
+}
